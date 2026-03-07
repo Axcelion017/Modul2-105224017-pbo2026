@@ -5,9 +5,9 @@ public class LogiCalc {
         System.out.println("=== SISTEM LOGICACL FASTSEND ===");
         System.out.print("Masukan nama klien\t: ");
         String nama = sc.nextLine();
-        System.out.print("Total berat barang\t: ");
+        System.out.print("Total berat barang (Kg)\t: ");
         double berat = sc.nextDouble();
-        System.out.print("Jarak tujuan\t: ");
+        System.out.print("Jarak tujuan (Km)\t: ");
         int jarak = sc.nextInt();
         System.out.print("Jumlah total Box/Kardus\t: ");
         int box = sc.nextInt();
